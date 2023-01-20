@@ -1,4 +1,4 @@
-[![CI](https://github.com/ulrichmonji/ansible-role_webapp/workflows/CI/badge.svg?event=push)](https://github.com/ulrichmonji/ansible-role_webapp/actions?query=workflow%3ACI)
+[![CI](https://github.com/NoFriendsss/ansible_role_webapp/workflows/CI/badge.svg?event=push)](https://github.com/NoFriendsss/ansible_role_webapp/actions?query=workflow%3ACI)
 
 Role Name
 =========
@@ -38,5 +38,5 @@ Author Information
 ------------------
 
 An optional section for the role authors to include contact information, or a website (HTML is not allowed).
-# ansible-role_nginx
-# ansible-role_webapp
+# ansible_role_nginx
+# ansible_role_webapp
